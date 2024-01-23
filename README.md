@@ -1,2 +1,5 @@
-# Sexto-repReadme
-Este es mi sexto repositorio en github.
+Este es mi sexto repositorio en github, trabajado desde mi computadora personal.
+
+
+
+
